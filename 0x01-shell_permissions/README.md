@@ -1,0 +1,1 @@
+shell permissions betty readme
